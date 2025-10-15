@@ -41,6 +41,7 @@ namespace Cronometro
                         Console.Clear();
                         Console.WriteLine("Opção inválida, tente novamente.");
                         continue;
+
                 }
             }
         }
