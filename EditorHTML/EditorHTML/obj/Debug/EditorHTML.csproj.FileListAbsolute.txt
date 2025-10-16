@@ -1,0 +1,8 @@
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe.config
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\bin\Debug\EditorHTML.pdb
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe.config
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.pdb

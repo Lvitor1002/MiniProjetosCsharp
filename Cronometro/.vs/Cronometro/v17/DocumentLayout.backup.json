@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\Cronometro\\",
+  "WorkspaceRootPath": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\Cronometro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61883E37-027D-4ABB-AA75-B39120CB3ED4}|Cronometro.csproj|c:\\users\\luiz\\desktop\\reposit\u00F3rios locais\\projetos\\cronometro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61883E37-027D-4ABB-AA75-B39120CB3ED4}|Cronometro.csproj|c:\\users\\luiz\\desktop\\reposit\u00F3rios locais\\projetos\\miniprojetoscs\\cronometro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61883E37-027D-4ABB-AA75-B39120CB3ED4}|Cronometro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\Cronometro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\Cronometro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\Cronometro\\Program.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\Cronometro\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T00:14:42.85Z",
               "EditorCaption": ""
