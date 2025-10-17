@@ -26,7 +26,7 @@ namespace EditorHTML
             var strong = new Regex(@"<\s*strong[^>]*>(.*?)<\s*/\s*strong>");
             var palavras = texto.Split(' ');
 
-            for (var i = 0; i <= palavras.Length; i++) 
+            for (var i = 0; i < palavras.Length; i++) 
             { 
                 if(strong.IsMatch(palavras[i]))
                 {
@@ -34,7 +34,7 @@ namespace EditorHTML
                     var buscarPalavra = palavras[i].Substring(palavras[i].IndexOf('>') + 1, 
                                         (
                                             (palavras[i].LastIndexOf('<') - 1) - 
-                                            palavras[i].LastIndexOf('>')
+                                            palavras[i].IndexOf('>')
                                         ));
 
                     Console.Write(buscarPalavra);

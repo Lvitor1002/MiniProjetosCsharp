@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\",
+  "WorkspaceRootPath": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|c:\\users\\luiz\\desktop\\reposit\u00F3rios locais\\projetos\\miniprojetoscs\\editorhtml\\editorhtml\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\editorhtml\\vizualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\vizualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|d:\\estudos\\miniprojetoscsharp\\editorhtml\\editorhtml\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|c:\\users\\luiz\\desktop\\reposit\u00F3rios locais\\projetos\\miniprojetoscs\\editorhtml\\editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|c:\\users\\luiz\\desktop\\reposit\u00F3rios locais\\projetos\\miniprojetoscs\\editorhtml\\editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Editor.cs",
-              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\EditorHTML\\Editor.cs",
-              "RelativeDocumentMoniker": "EditorHTML\\Editor.cs",
-              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\EditorHTML\\Editor.cs",
-              "RelativeToolTip": "EditorHTML\\Editor.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T23:24:47.36Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\EditorHTML\\Menu.cs",
-              "RelativeDocumentMoniker": "EditorHTML\\Menu.cs",
-              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\EditorHTML\\Menu.cs",
-              "RelativeToolTip": "EditorHTML\\Menu.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwCQAAAAjAAAAAAAAAA==",
+              "Title": "Editor.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Editor.cs",
+              "RelativeDocumentMoniker": "EditorHTML\\Editor.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Editor.cs",
+              "RelativeToolTip": "EditorHTML\\Editor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T22:39:00.37Z",
+              "WhenOpened": "2025-10-17T11:46:10.401Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vizualizar.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Vizualizar.cs",
+              "RelativeDocumentMoniker": "EditorHTML\\Vizualizar.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Vizualizar.cs",
+              "RelativeToolTip": "EditorHTML\\Vizualizar.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:34:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Menu.cs",
+              "RelativeDocumentMoniker": "EditorHTML\\Menu.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Menu.cs",
+              "RelativeToolTip": "EditorHTML\\Menu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:36:15.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\EditorHTML\\Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Program.cs",
               "RelativeDocumentMoniker": "EditorHTML\\Program.cs",
-              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\EditorHTML\\EditorHTML\\Program.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Program.cs",
               "RelativeToolTip": "EditorHTML\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T22:39:01.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T13:35:38.408Z"
             }
           ]
         }

@@ -1,0 +1,8 @@
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\bin\Debug\Strings.exe
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\bin\Debug\Strings.pdb
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\obj\Debug\Strings.exe
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\obj\Debug\Strings.pdb
+D:\Estudos\MiniProjetosCsharp\Strings\Strings\obj\Debug\Strings.exe.config

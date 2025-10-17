@@ -6,3 +6,11 @@ C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\Ed
 C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.CoreCompileInputs.cache
 C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe
 C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\EditorHTML\EditorHTML\obj\Debug\EditorHTML.pdb
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe.config
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\bin\Debug\EditorHTML.exe
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\bin\Debug\EditorHTML.pdb
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.AssemblyReference.cache
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe.config
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\obj\Debug\EditorHTML.csproj.CoreCompileInputs.cache
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\obj\Debug\EditorHTML.exe
+D:\Estudos\MiniProjetosCsharp\EditorHTML\EditorHTML\obj\Debug\EditorHTML.pdb
