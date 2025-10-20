@@ -1,0 +1,8 @@
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
+D:\Estudos\MiniProjetosCsharp\Exceptions\Exceptions\obj\Debug\Exceptions.exe.config
