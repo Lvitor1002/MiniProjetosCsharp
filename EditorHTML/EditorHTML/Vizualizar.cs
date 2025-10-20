@@ -28,26 +28,28 @@ namespace EditorHTML
 
         private static void ProcessarTexto(string texto)
         {
-            var tagStrong = new Regex(@"<strong>(.*?)</strong>", RegexOptions.Singleline);
+            var regexTagStrong = new Regex(@"<strong>(.*?)</strong>", RegexOptions.Singleline);
+            int posicaoAtual = 0;
 
-            int ultimaPosicao = 0;
-
-            // Percorre cada correspondência de <strong> no texto
-            foreach (Match match in tagStrong.Matches(texto))
+            // Percorre todas as partes do texto que contêm a tag <strong>
+            foreach (Match correspondencia in regexTagStrong.Matches(texto))
             {
-                // Exibe o texto normal antes da próxima tag <strong>
-                if (match.Index > ultimaPosicao)
+                // Exibe o trecho texto antes da próxima tag <strong>
+                if (correspondencia.Index > posicaoAtual)
                 {
                     Console.ForegroundColor = ConsoleColor.White;
 
-                    string textoNormal = texto.Substring(ultimaPosicao, match.Index - ultimaPosicao);
-                    Console.Write(textoNormal);
+                    int tamanhoTrecho = correspondencia.Index - posicaoAtual;
+
+                                                        //Posição     ,Comprimento do trecho
+                    string trechoTexto = texto.Substring(posicaoAtual, tamanhoTrecho);
+                    Console.Write(trechoTexto);
                 }
 
                 // Extrai o texto entre as tags <strong> e </strong>
-                string tagCompleta = match.Value; // Exemplo: <strong>Exemplo</strong>
+                string textoComTag = correspondencia.Value; // Exemplo: <strong>Exemplo</strong>
 
-                string textoNegrito = tagCompleta
+                string textoNegrito = textoComTag
                     .Replace("<strong>", "")
                     .Replace("</strong>", "");
 
@@ -56,20 +58,18 @@ namespace EditorHTML
                 Console.Write(textoNegrito);
 
                 // Atualiza a posição para depois da tag atual
-                ultimaPosicao = match.Index + match.Length;
+                posicaoAtual = correspondencia.Index + correspondencia.Length;
             }
 
             // Exibe o restante do texto (depois da última tag <strong>)
-            if (ultimaPosicao < texto.Length)
+            if (posicaoAtual < texto.Length)
             {
                 Console.ForegroundColor = ConsoleColor.White;
 
-                string textoRestante = texto.Substring(ultimaPosicao);
-                Console.Write(textoRestante);
+                string trechoRestante = texto.Substring(posicaoAtual); //Garante que nenhum pedaço de texto fique faltando e seja exibido
+                Console.Write(trechoRestante);
             }
-
             Console.WriteLine();
         }
-
     }
 }
