@@ -1,0 +1,8 @@
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\bin\Debug\Datas.exe.config
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\bin\Debug\Datas.exe
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\bin\Debug\Datas.pdb
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\obj\Debug\Datas.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\obj\Debug\Datas.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\obj\Debug\Datas.exe
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\obj\Debug\Datas.pdb
+C:\Users\Luiz\Desktop\MiniProjetosCsharp\Datas\obj\Debug\Datas.exe.config

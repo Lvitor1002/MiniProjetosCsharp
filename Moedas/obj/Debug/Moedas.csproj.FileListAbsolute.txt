@@ -1,0 +1,8 @@
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\bin\Debug\Moedas.exe.config
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\bin\Debug\Moedas.exe
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\bin\Debug\Moedas.pdb
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\obj\Debug\Moedas.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\obj\Debug\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\obj\Debug\Moedas.exe
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\obj\Debug\Moedas.pdb
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\Moedas\obj\Debug\Moedas.exe.config
