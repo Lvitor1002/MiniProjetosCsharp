@@ -1,6 +1,4 @@
-﻿
-
-using System;
+﻿using System;
 using System.Threading;
 
 namespace Cronometro
@@ -21,13 +19,13 @@ namespace Cronometro
                 switch (opcao)
                 {
                     case "s":
-                        int segundos = RetornaUnidadeTempo("Segundos");
+                        int segundos = RetornaUnidadeTempo("segundos");
                         Console.WriteLine($"Iniciando cronômetro de {segundos} segundos...");
                         IniciarCronometro(segundos);
                         break;
 
                     case "m":
-                        int minutos = RetornaUnidadeTempo("Minutos");
+                        int minutos = RetornaUnidadeTempo("minutos");
                         Console.WriteLine($"Iniciando cronômetro de {minutos} minutos...");
                         IniciarCronometro(minutos * 60); // Converte minutos para segundos
                         break;
@@ -80,4 +78,3 @@ namespace Cronometro
         }
     }
 }
-

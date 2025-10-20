@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628A1641-CBD9-4A1C-B5D7-353CCDC4F893}|EditorHTML\\EditorHTML.csproj|solutionrelative:editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,9 +40,22 @@
               "RelativeDocumentMoniker": "EditorHTML\\Editor.cs",
               "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Editor.cs",
               "RelativeToolTip": "EditorHTML\\Editor.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:46:10.401Z",
+              "WhenOpened": "2025-10-20T13:13:00.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Menu.cs",
+              "RelativeDocumentMoniker": "EditorHTML\\Menu.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Menu.cs",
+              "RelativeToolTip": "EditorHTML\\Menu.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADwvzcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:02:11.97Z",
               "EditorCaption": ""
             },
             {
@@ -53,34 +66,23 @@
               "RelativeDocumentMoniker": "EditorHTML\\Vizualizar.cs",
               "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Vizualizar.cs",
               "RelativeToolTip": "EditorHTML\\Vizualizar.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:34:37.895Z",
+              "WhenOpened": "2025-10-20T13:01:53.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Menu.cs",
-              "RelativeDocumentMoniker": "EditorHTML\\Menu.cs",
-              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Menu.cs",
-              "RelativeToolTip": "EditorHTML\\Menu.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:36:15.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Program.cs",
               "RelativeDocumentMoniker": "EditorHTML\\Program.cs",
               "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\EditorHTML\\EditorHTML\\Program.cs",
               "RelativeToolTip": "EditorHTML\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:35:38.408Z"
+              "WhenOpened": "2025-10-20T13:01:31.967Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,52 +1,75 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-
 namespace EditorHTML
 {
-    public static class Vizualizar
+    public static class Vizualizador
     {
-        public static void Exibir(string texto)
+        public static void ExibirTexto(string texto)
         {
             Console.Clear();
-            Console.BackgroundColor = ConsoleColor.Yellow;
-            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Clear();
-            Console.WriteLine("Modo de Vizualização");
-            Console.WriteLine("---------------------");
-            TrocarTexto(texto);
-            Console.WriteLine("---------------------");
+
+            Console.WriteLine("MODO VISUALIZAÇÃO");
+            Console.WriteLine("=================");
+            Console.WriteLine();
+
+            if (string.IsNullOrEmpty(texto))
+                Console.WriteLine("Nenhum texto para visualizar.");
+            else
+                ProcessarTexto(texto);
+
+            Console.WriteLine("=================");
+            Console.WriteLine("\nPressione qualquer tecla para voltar ao menu...");
             Console.ReadKey();
-            Menu.Exibir();
         }
 
-        public static void TrocarTexto(string texto)
+        private static void ProcessarTexto(string texto)
         {
-                                    //Pega tudo que começa com <strong> e termina com </strong> e captura o conteúdo entre eles.
-            var strong = new Regex(@"<\s*strong[^>]*>(.*?)<\s*/\s*strong>");
-            var palavras = texto.Split(' ');
+            var tagStrong = new Regex(@"<strong>(.*?)</strong>", RegexOptions.Singleline);
 
-            for (var i = 0; i < palavras.Length; i++) 
-            { 
-                if(strong.IsMatch(palavras[i]))
-                {
-                    Console.ForegroundColor = ConsoleColor.Blue;
-                    var buscarPalavra = palavras[i].Substring(palavras[i].IndexOf('>') + 1, 
-                                        (
-                                            (palavras[i].LastIndexOf('<') - 1) - 
-                                            palavras[i].IndexOf('>')
-                                        ));
+            int ultimaPosicao = 0;
 
-                    Console.Write(buscarPalavra);
-                    Console.Write(" ");
-                }
-                else
+            // Percorre cada correspondência de <strong> no texto
+            foreach (Match match in tagStrong.Matches(texto))
+            {
+                // Exibe o texto normal antes da próxima tag <strong>
+                if (match.Index > ultimaPosicao)
                 {
-                    Console.ForegroundColor = ConsoleColor.Black;
-                    Console.Write(palavras[i]);
-                    Console.Write(" ");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    string textoNormal = texto.Substring(ultimaPosicao, match.Index - ultimaPosicao);
+                    Console.Write(textoNormal);
                 }
+
+                // Extrai o texto entre as tags <strong> e </strong>
+                string tagCompleta = match.Value; // Exemplo: <strong>Exemplo</strong>
+
+                string textoNegrito = tagCompleta
+                    .Replace("<strong>", "")
+                    .Replace("</strong>", "");
+
+                // Exibe o texto destacado em amarelo
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write(textoNegrito);
+
+                // Atualiza a posição para depois da tag atual
+                ultimaPosicao = match.Index + match.Length;
             }
+
+            // Exibe o restante do texto (depois da última tag <strong>)
+            if (ultimaPosicao < texto.Length)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+
+                string textoRestante = texto.Substring(ultimaPosicao);
+                Console.Write(textoRestante);
+            }
+
+            Console.WriteLine();
         }
+
     }
 }

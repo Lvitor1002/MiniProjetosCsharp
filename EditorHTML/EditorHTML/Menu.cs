@@ -1,68 +1,91 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace EditorHTML
 {
     public static class Menu
     {
-        public static void Exibir()
-        {
-            Console.Clear();
-            Console.BackgroundColor = ConsoleColor.Yellow;
-            Console.ForegroundColor = ConsoleColor.Black;
-            DesenharTela();
+        private static string textoAtual = "";
 
-            short opcao;
+        public static void ExibirMenu()
+        {
             while (true)
             {
-                ExibirOpcoes();
-                string entrada = Console.ReadLine().Trim();
-                if(!short.TryParse(entrada, out opcao))
-                {
-                    Console.Clear();
-                    Console.SetCursorPosition(10, 11);
-                    Console.Write("Opção inválida!");
-                    continue;
-                }
-                break;
-            }
-            ManipularOpcaoMenu(opcao);
-        }
-        
+                Console.Clear();
+                Console.BackgroundColor = ConsoleColor.DarkBlue;
+                Console.ForegroundColor = ConsoleColor.White;
 
-        private static void ManipularOpcaoMenu(short opcao)
+                DesenharTela();
+
+                short opcao;
+                while (true)
+                {
+                    ExibirOpcoes();
+
+                    string entrada = Console.ReadLine().Trim();
+
+                    if (!short.TryParse(entrada, out opcao) || opcao < 0 || opcao > 2)
+                    {
+                        Console.SetCursorPosition(3, 12);
+                        Console.Write("Opção inválida! Pressione qualquer tecla...");
+                        Console.ReadKey();
+
+                        Console.SetCursorPosition(3, 12);
+                        Console.Write(new string(' ', 50));
+                        continue;
+                    }
+                    break;
+                }
+
+                if (!ManipularOpcaoMenu(opcao))
+                    break;
+            }
+        }
+
+        private static bool ManipularOpcaoMenu(short opcao)
         {
             switch (opcao)
             {
                 case 1:
-                    Console.Clear();
-                    Editor.Mostrar(); 
+                    Editor.MostrarEditor();
+                    textoAtual = Editor.retornaStringBuilderTexto();
                     break;
 
                 case 2:
-                    Console.Clear();
-                    Console.WriteLine("Vizualizar"); 
+                    if (!string.IsNullOrEmpty(textoAtual))
+                        Vizualizador.ExibirTexto(textoAtual);
+                    else
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Nenhum texto para visualizar!");
+                        Console.WriteLine("Pressione qualquer tecla para continuar...");
+                        Console.ReadKey();
+                    }
                     break;
 
                 case 0:
                     Console.Clear();
-                    Environment.Exit(0);
-                    break;
+                    Console.WriteLine("Saindo do Editor HTML...");
+                    return false;
             }
+            return true;
         }
+
         private static void ExibirOpcoes()
         {
             Console.SetCursorPosition(3, 2);
-            Console.WriteLine("Editor HTML");
+            Console.WriteLine("EDITOR HTML");
             Console.SetCursorPosition(3, 3);
             Console.WriteLine("============");
-            Console.SetCursorPosition(3, 4);
-            Console.WriteLine("Selecione uma opção abaixo");
-            Console.SetCursorPosition(3, 6);
-            Console.WriteLine("1 - Novo Arquivo");
+            Console.SetCursorPosition(3, 5);
+            Console.WriteLine("Selecione uma opção abaixo:");
             Console.SetCursorPosition(3, 7);
-            Console.WriteLine("2 - Abrir");
+            Console.WriteLine("1 - Novo Arquivo");
             Console.SetCursorPosition(3, 8);
+            Console.WriteLine("2 - Visualizar Arquivo");
+            Console.SetCursorPosition(3, 9);
             Console.WriteLine("0 - Sair");
-            Console.SetCursorPosition(3, 10);
+            Console.SetCursorPosition(3, 11);
             Console.Write("Opção: ");
         }
 
@@ -75,26 +98,23 @@ namespace EditorHTML
 
         private static void LinhasHorizontais()
         {
-            //Horizontal
             Console.Write("+");
-            for (int i = 0; i <= 30; i++)
+            for (int i = 0; i <= 50; i++)
                 Console.Write("-");
-
             Console.Write("+");
-            Console.Write("\n");
+            Console.WriteLine();
         }
+
         private static void LinhasVerticais()
         {
-            //Vertical
-            for (int linhas = 0; linhas <= 10; linhas++)
+            for (int linhas = 0; linhas <= 15; linhas++)
             {
                 Console.Write("|");
-                for (int i = 0; i <= 30; i++)
+                for (int i = 0; i <= 50; i++)
                     Console.Write(" ");
                 Console.Write("|");
-                Console.Write("\n");
+                Console.WriteLine();
             }
         }
-        
     }
 }
