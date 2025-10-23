@@ -5,7 +5,7 @@ namespace EditorHTML
 {
     public static class Menu
     {
-        private static string textoAtual = "";
+        private static string textoDigitado = "";
 
         public static void ExibirMenu()
         {
@@ -26,6 +26,7 @@ namespace EditorHTML
 
                     if (!short.TryParse(entrada, out opcao) || opcao < 0 || opcao > 2)
                     {
+                        Console.Clear();
                         Console.SetCursorPosition(3, 12);
                         Console.Write("Opção inválida! Pressione qualquer tecla...");
                         Console.ReadKey();
@@ -37,7 +38,8 @@ namespace EditorHTML
                     break;
                 }
 
-                if (!ManipularOpcaoMenu(opcao))
+                //Se cair no case “0” então retorna [false]
+                if (ManipularOpcaoMenu(opcao) == false)
                     break;
             }
         }
@@ -48,12 +50,12 @@ namespace EditorHTML
             {
                 case 1:
                     Editor.MostrarEditor();
-                    textoAtual = Editor.retornaStringBuilderTexto();
-                    break;
+                    textoDigitado = Editor.retornaStringBuilderTextoDigitado();
+                    return true;
 
                 case 2:
-                    if (!string.IsNullOrEmpty(textoAtual))
-                        Vizualizador.ExibirTexto(textoAtual);
+                    if (!string.IsNullOrEmpty(textoDigitado))
+                        Vizualizador.ExibirTexto(textoDigitado);
                     else
                     {
                         Console.Clear();
@@ -61,14 +63,16 @@ namespace EditorHTML
                         Console.WriteLine("Pressione qualquer tecla para continuar...");
                         Console.ReadKey();
                     }
-                    break;
+                    return true; 
 
                 case 0:
                     Console.Clear();
                     Console.WriteLine("Saindo do Editor HTML...");
                     return false;
+
+                default:
+                    return true; //garante que sempre haverá um retorno
             }
-            return true;
         }
 
         private static void ExibirOpcoes()
