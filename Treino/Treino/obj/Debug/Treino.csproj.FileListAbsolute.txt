@@ -1,0 +1,8 @@
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\bin\Debug\Treino.exe.config
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\bin\Debug\Treino.exe
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\bin\Debug\Treino.pdb
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\obj\Debug\Treino.csproj.AssemblyReference.cache
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\obj\Debug\Treino.csproj.CoreCompileInputs.cache
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\obj\Debug\Treino.exe
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\obj\Debug\Treino.pdb
+D:\Estudos\MiniProjetosCsharp\Treino\Treino\obj\Debug\Treino.exe.config

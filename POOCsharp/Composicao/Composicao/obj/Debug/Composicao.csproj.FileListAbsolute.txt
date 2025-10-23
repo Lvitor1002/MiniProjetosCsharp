@@ -1,0 +1,8 @@
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\bin\Debug\Composicao.exe.config
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\bin\Debug\Composicao.exe
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\bin\Debug\Composicao.pdb
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\obj\Debug\Composicao.csproj.AssemblyReference.cache
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\obj\Debug\Composicao.csproj.CoreCompileInputs.cache
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\obj\Debug\Composicao.exe
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\obj\Debug\Composicao.pdb
+D:\Estudos\MiniProjetosCsharp\POOCsharp\Composicao\Composicao\obj\Debug\Composicao.exe.config
