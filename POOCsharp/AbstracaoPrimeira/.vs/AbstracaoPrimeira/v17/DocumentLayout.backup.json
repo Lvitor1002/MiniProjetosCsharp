@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|c:\\users\\luiz\\desktop\\reposit\u00F3rios locais\\projetos\\miniprojetoscs\\poocsharp\\abstracaoprimeira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|solutionrelative:entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|solutionrelative:entities\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\enuns\\tipofigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|solutionrelative:enuns\\tipofigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\entities\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5239DB-494C-452C-A1F2-33FA0E38D0E6}|AbstracaoPrimeira.csproj|solutionrelative:entities\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoFigura.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Enuns\\TipoFigura.cs",
+              "RelativeDocumentMoniker": "Enuns\\TipoFigura.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Enuns\\TipoFigura.cs",
+              "RelativeToolTip": "Enuns\\TipoFigura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:27:47.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Entities\\Figura.cs",
+              "RelativeDocumentMoniker": "Entities\\Figura.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Entities\\Figura.cs",
+              "RelativeToolTip": "Entities\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:27:25.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Entities\\Circulo.cs",
+              "RelativeDocumentMoniker": "Entities\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Entities\\Circulo.cs",
+              "RelativeToolTip": "Entities\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:54:16.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Entities\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Entities\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Entities\\Retangulo.cs",
+              "RelativeToolTip": "Entities\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:54:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\Reposit\u00F3rios Locais\\PROJETOS\\MiniProjetosCS\\POOCsharp\\AbstracaoPrimeira\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:19:57.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
