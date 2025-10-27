@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\projetobanco\\projetobanco\\entites\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\entites\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\projetobanco\\projetobanco\\entites\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\entites\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\projetobanco\\projetobanco\\entites\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\entites\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\projetobanco\\projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E99C007F-94BD-4B0D-BF80-3C5AC2A64BA1}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Entites\\Endereco.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Entites\\Endereco.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Entites\\Endereco.cs",
+              "RelativeToolTip": "ProjetoBanco\\Entites\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:25:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Titular.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Entites\\Titular.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Entites\\Titular.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Entites\\Titular.cs",
+              "RelativeToolTip": "ProjetoBanco\\Entites\\Titular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:24:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Entites\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Entites\\ContaBancaria.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Entites\\ContaBancaria.cs",
+              "RelativeToolTip": "ProjetoBanco\\Entites\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:24:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoBanco\\Program.cs",
               "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\ProjetoBanco\\ProjetoBanco\\Program.cs",
               "RelativeToolTip": "ProjetoBanco\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T12:52:01.057Z",
               "EditorCaption": ""
