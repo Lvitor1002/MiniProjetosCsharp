@@ -1,0 +1,8 @@
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\obj\Debug\Locadora.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\bin\Debug\Locadora.exe
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\bin\Debug\Locadora.pdb
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\obj\Debug\Locadora.exe
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\obj\Debug\Locadora.pdb
+C:\Users\Luiz\Desktop\Repositórios Locais\PROJETOS\MiniProjetosCS\POOCsharp\Locadora\obj\Debug\Locadora.exe.config
