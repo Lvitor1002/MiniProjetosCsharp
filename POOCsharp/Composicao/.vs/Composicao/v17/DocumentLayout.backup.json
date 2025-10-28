@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\composicao\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|solutionrelative:composicao\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\composicao\\composicao\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|solutionrelative:composicao\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\composicao\\composicao\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|solutionrelative:composicao\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|d:\\estudos\\miniprojetoscsharp\\poocsharp\\composicao\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C8BF79-9E5F-40D7-98A4-CCC89D1B794A}|Composicao\\Composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cesta.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Cesta.cs",
+              "RelativeDocumentMoniker": "Composicao\\Cesta.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Cesta.cs",
+              "RelativeToolTip": "Composicao\\Cesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:43:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Item.cs",
+              "RelativeDocumentMoniker": "Composicao\\Item.cs",
+              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Item.cs",
+              "RelativeToolTip": "Composicao\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:43:20.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Program.cs",
               "RelativeDocumentMoniker": "Composicao\\Program.cs",
               "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Program.cs",
               "RelativeToolTip": "Composicao\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:14:43.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cesta.cs",
-              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Cesta.cs",
-              "RelativeDocumentMoniker": "Composicao\\Cesta.cs",
-              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Cesta.cs",
-              "RelativeToolTip": "Composicao\\Cesta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:10:18.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Item.cs",
-              "RelativeDocumentMoniker": "Composicao\\Item.cs",
-              "ToolTip": "D:\\Estudos\\MiniProjetosCsharp\\POOCsharp\\Composicao\\Composicao\\Item.cs",
-              "RelativeToolTip": "Composicao\\Item.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:11:43.943Z",
+              "WhenOpened": "2025-10-27T11:43:13.851Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,18 @@
-﻿using System;
+﻿/*
+    Historia do sistema.
+
+    Fomos contratados para criar um sistema bancário onde será possível criar as seguintes questões:
+        Criar conta corrente
+        Criar conta poupança
+        Criar uma conta investimento
+        Efetuar um deposito
+        Efetuar um saque
+        Efetuar uma transferencia
+        Consultar saldo
+        Vizualizar as movimentações bancárias
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +24,10 @@ namespace ProjetoBanco
     {
         static void Main(string[] args)
         {
-            //min: 21 | https://www.udemy.com/course/aprenda-poo-com-c-net-60-visualstudio-code/learn/lecture/31657632#overview
+            Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+            Console.WriteLine("-=-=-=-=-=  Banco CSharp  -=-=-=-=-=");
+            Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+
         }
     }
 }
