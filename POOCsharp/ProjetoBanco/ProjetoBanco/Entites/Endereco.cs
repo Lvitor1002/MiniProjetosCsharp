@@ -10,9 +10,10 @@ namespace ProjetoBanco.Entites
     {
         public string Cep { get; set; }
         public string Rua { get; set; }
+        public int Numero{ get; set; }
         public string Bairro { get; set; }
         public string Cidade { get; set; }
         public string UF { get; set; }
-        //https://www.udemy.com/course/aprenda-poo-com-c-net-60-visualstudio-code/learn/lecture/31657662#overview
+
     }
 }
